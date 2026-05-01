@@ -1,7 +1,7 @@
 pyTelegramBotAPI
 pymongo
-requests
-aiohttp
+certifi
 pytz
 psutil
-certifi
+aiohttp
+requests
